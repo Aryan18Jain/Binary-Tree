@@ -93,7 +93,7 @@ int main()
 	cout<<"Inorder of given tree:"<<endl;
 	bt.inorder(bt.get_root());
 	cout<<endl;
-	cout<<"Inorder of given tree:"<<endl;
+	cout<<"Postorder of given tree:"<<endl;
 	bt.postorder(bt.get_root());
 	cout<<endl;
 	return 0;
